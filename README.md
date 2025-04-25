@@ -35,15 +35,3 @@ This project is a front-end clone of the Netflix home page created using HTML, C
 
 3. Open the `index.html` file in your web browser to view the project.
 
-## Screenshots
-
-You can add screenshots to visually represent the webpage layout.
-
-## Purpose
-
-This project was developed to enhance front-end web development skills by replicating a well-known and visually appealing website.
-
-## License
-
-This project is licensed under the MIT License.
-```
